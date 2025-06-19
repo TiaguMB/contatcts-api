@@ -1,0 +1,1 @@
+- [ ] Listar o que deve ser feito
