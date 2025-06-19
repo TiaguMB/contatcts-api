@@ -1,0 +1,20 @@
+{
+  "name": "contacts-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "run": "node src/index.js",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "TiaguMB",
+  "license": "",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
